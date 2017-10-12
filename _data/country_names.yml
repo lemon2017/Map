@@ -787,7 +787,7 @@
 -
   index: 'map_158'
   country_name: 'TAIWAN'
-  visited: false
+  visited: true
 
 -
   index: 'map_159'
